@@ -4,7 +4,7 @@ public class VideoItem {
     private String title;
     private String description;
     private String videoUrl;
-    private String thumbnailUrl;
+    private String thumbnailUrl
 
     // Constructor to initialize the video item
     public VideoItem(String title, String description, String videoUrl, String thumbnailUrl) {
